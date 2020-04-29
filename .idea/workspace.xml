@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e87ea214-af9f-4600-9172-cd83ec9f121f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -136,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588029046044</updated>
-      <workItem from="1588029049060" duration="3704000" />
+      <workItem from="1588029049060" duration="4344000" />
     </task>
     <servers />
   </component>
@@ -192,6 +193,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588031511811" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1588138173692">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/1440.0.1920.1200/0.0.1440.900@0.0.1440.900" timestamp="1588138173692" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1588029050803">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
